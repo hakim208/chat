@@ -48,4 +48,5 @@
   .inp{
     border-bottom: 0.5px solid gray;
     width: 100%;
+    outline: none;
   }
